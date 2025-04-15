@@ -14,9 +14,10 @@
    gõ text mô tả cho ảnh đó
 ## Deadline: 15/04/2025
 # BÀI LÀM
-1. Tạo Database gồm các bảng với các yêu cầu của TKB : ![image](https://github.com/user-attachments/assets/95d7c609-b613-4cd1-b075-b9b54e08e6e9)
+1. Tạo Database gồm các bảng với các yêu cầu của TKB : ![Ảnh1](https://github.com/user-attachments/assets/a59466bc-9e89-4848-919f-ab05583854bd)
 2. Tạo liên kết giữa các bảng: ![image](https://github.com/user-attachments/assets/53c13cb9-0933-4af5-a133-180e02e7d91c)
 3. Nhập dữ liệu cho các bảng từ Excel:
+
 a) Table GiaoVien:![image](https://github.com/user-attachments/assets/f628c29a-0af6-4c30-b584-75739724b576)
 b) Table Lop:![image](https://github.com/user-attachments/assets/b38786a6-7ccb-4ee5-b453-2b2ade34a516)
 c) Table MonHoc: ![image](https://github.com/user-attachments/assets/e90657fc-d09e-48e3-a470-9aa6d1df8be2)
